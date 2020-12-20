@@ -1,0 +1,14 @@
+.shop{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left: 70px;
+    background-color: whitesmoke;
+}
+
+/* .shop__row{
+    display: flex ;
+    z-index: 1;
+    margin-left: 5px;
+    margin-right: 5px ;
+} */

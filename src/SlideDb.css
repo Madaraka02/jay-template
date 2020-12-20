@@ -1,0 +1,28 @@
+.slideDb{
+    display: flex;
+}
+.slideDb__image{
+    width: 18rem;
+    height: 18rem;
+    object-fit: contain;
+}
+.slideDb__info{
+    display: flex;
+    object-fit: contain;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px 5px 5px 5px;
+    background-color: #ffffff;
+}
+.slideDb__title{
+    margin: 5px 5px 5px 5px;
+}
+.slideDb__price{
+    margin: 5px 5px 5px 5px;
+}
+.slideDb__button{
+    width: 40%;
+    margin: 5px 5px 15px 5px;
+    background-color: #f0c14b;
+    border: 1px solid #f0c14b;
+}

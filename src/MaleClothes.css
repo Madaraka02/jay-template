@@ -1,0 +1,7 @@
+.maleClothes{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left: 70px;
+    background-color: whitesmoke;
+}

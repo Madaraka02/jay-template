@@ -1,0 +1,28 @@
+.male{
+    display: flex;
+}
+.male__image{
+    width: 18rem;
+    height: 18rem;
+    object-fit: contain;
+}
+.male__info{
+    display: flex;
+    object-fit: contain;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px 5px 5px 5px;
+    background-color: #ffffff;
+}
+.male__title{
+    margin: 5px 5px 5px 5px;
+}
+.male__price{
+    margin: 5px 5px 5px 5px;
+}
+.male__button{
+    width: 40%;
+    margin: 5px 5px 15px 5px;
+    background-color: #f0c14b;
+    border: 1px solid #f0c14b;
+}
